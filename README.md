@@ -54,7 +54,7 @@ _(But if you'd rather configure some of your routes manually, Traefik supports t
 
 ![Architecture](docs/content/assets/img/traefik-architecture.png)
 
-## Features
+## Features1
 
 - Continuously updates its configuration (No restarts!)
 - Supports multiple load balancing algorithms
